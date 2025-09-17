@@ -8,3 +8,4 @@ redone1
 
 redone2
 
+newconflict
